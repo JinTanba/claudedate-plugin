@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "claudedate": {
+      "type": "http",
+      "url": "https://claude-date.vercel.app/mcp"
+    }
+  }
+}

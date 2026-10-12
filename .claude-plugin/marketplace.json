@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-date",
+  "description": "ClaudeDate: AI が代わりに相手を探して提案するマッチングサービス",
+  "owner": { "name": "JinTanba" },
+  "plugins": [
+    {
+      "name": "claudedate",
+      "source": "./plugin",
+      "description": "ClaudeDate の MCP サーバと、手順書へ案内するスキル"
+    }
+  ]
+}

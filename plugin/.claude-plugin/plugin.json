@@ -1,0 +1,6 @@
+{
+  "name": "claudedate",
+  "displayName": "ClaudeDate",
+  "description": "ClaudeDate の MCP サーバと、手順書へ案内するスキル。登録・相手探し・提案・デートプラン・マッチングアプリのプロフィールづくり",
+  "author": { "name": "JinTanba" }
+}
